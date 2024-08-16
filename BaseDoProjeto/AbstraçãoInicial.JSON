@@ -1,0 +1,28 @@
+{
+    "name": "Pedro",
+    "account":{
+        "number": "00000000-0",
+        "agency": "0000",
+        "balance": 1324.64,
+        "limit:": 1000.00
+    },
+
+    "features": [
+        {
+            "icon": "URL",
+            "description": "PIX"
+        }
+    ],
+
+    "card": {
+        "cardNumber": "xxxx xxxx xxxx 0000",
+        "cardLimit": 1000.00
+    },
+
+    "news":[
+        {
+            "Icon": "URL",
+            "description": "descrição da novidade"
+        }
+    ]
+}
