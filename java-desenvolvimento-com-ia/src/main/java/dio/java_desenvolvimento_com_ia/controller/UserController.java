@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import dio.java_desenvolvimento_com_ia.domain.model.User;
+import dio.java_desenvolvimento_com_ia.model.User;
 import dio.java_desenvolvimento_com_ia.service.UserService;
 
 @RestController

@@ -5,8 +5,8 @@ import java.util.NoSuchElementException;
 
 import org.springframework.stereotype.Service;
 
-import dio.java_desenvolvimento_com_ia.domain.model.User;
-import dio.java_desenvolvimento_com_ia.domain.repo.UserRepo;
+import dio.java_desenvolvimento_com_ia.model.User;
+import dio.java_desenvolvimento_com_ia.repo.UserRepo;
 import dio.java_desenvolvimento_com_ia.service.UserService;
 import jakarta.persistence.EntityNotFoundException;
 

@@ -2,7 +2,7 @@ package dio.java_desenvolvimento_com_ia.service;
 
 import java.util.List;
 
-import dio.java_desenvolvimento_com_ia.domain.model.User;
+import dio.java_desenvolvimento_com_ia.model.User;
 
 public interface UserService {
     
